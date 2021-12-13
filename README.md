@@ -2,7 +2,7 @@
 - 👀 I’m interested in finding insights.
 - 🌱 I’m currently learning anything news to Data and Data analysis
 - 💞️ I’m open to any chances for development, learning and experience.
-- 📫 How to reach me, contact me throught email: luutrang104@gmail.com
+- 📫 How to reach me, contact me throught email: luutrang104@gmail.com or phone: +84901236525
 
 <!---
 TrangLuu84/TrangLuu84 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
